@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Open.png</file>
+        <file>window.png</file>
+        <file>w.png</file>
+        <file>cut.png</file>
+        <file>encode.png</file>
+        <file>Rotation.png</file>
+        <file>save.png</file>
+        <file>withdraw.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
